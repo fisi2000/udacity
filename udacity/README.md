@@ -1,6 +1,6 @@
 
 ### Date created
-08.03.2024 by Andreas Szekeres
+2024-03-08 by Andreas Szekeres
 
 ### Project Title
 ## Post your work on GitHub
