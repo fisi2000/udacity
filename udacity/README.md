@@ -3,10 +3,10 @@
 08.03.2024 by Andreas Szekeres
 
 ### Project Title
-Replace the Project Title
+Post your work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+In this project by posting all my work from the bikeshare project a realistic workflow to refactor my work is simulated.
 
 ### Files used
 Include the files used
