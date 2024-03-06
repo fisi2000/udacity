@@ -227,7 +227,7 @@ def display_data(df):
                 else:
                     print("Please enter a valid response")              
 
-
+# Main function
 def main():
     while True:
         city, month, day = get_filters()
